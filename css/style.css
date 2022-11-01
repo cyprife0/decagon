@@ -1,7 +1,6 @@
 body{
-	font-family: sans-serif;
-	margin:0px;
-
+	font-family: calibri;
+	
 
 	}
 .ccc{
@@ -9,7 +8,7 @@ body{
 }.header-body{
 	width:100%;
 	height: 450px;
-	background-color: #b8edf169;;
+	background-color: lighblue;;
 	display: flex;
 	justify-content: center;
 	align-items: center;
